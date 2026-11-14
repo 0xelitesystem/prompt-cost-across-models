@@ -106,7 +106,7 @@ MIT. See [LICENSE](LICENSE).
 
 ## Related
 
-- [claude-eval-harness](https://github.com/0xelitesystem/claude-eval-harness), actually run the prompt against multiple models
+- [prompt-model-side-by-side](https://github.com/0xelitesystem/prompt-model-side-by-side), actually run the prompt against multiple models
 - [byok-patterns](https://github.com/0xelitesystem/byok-patterns), BYOK reference implementations
 - [prompt-templates](https://github.com/0xelitesystem/prompt-templates), production prompts targeting LLM failure modes
 - [readme-slop-checker](https://github.com/0xelitesystem/readme-slop-checker), audit a README for AI cliches
